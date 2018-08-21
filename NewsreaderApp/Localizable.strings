@@ -1,0 +1,10 @@
+/* 
+  Localizable.strings
+  NewsreaderApp
+
+  Created by Globallogic on 31/01/18.
+  Copyright © 2018 Globallogic. All rights reserved.
+*/
+
+"error" = "Error";
+"invalid_data_received" = "Invalid Data received!";
